@@ -1,0 +1,41 @@
+body[class="content"] {
+	background: url(https://images2.alphacoders.com/771/771486.jpg);
+	background-size: 105%;
+}
+
+body[class="top"] {
+	background: url(https://w.wallhaven.cc/full/j3/wallhaven-j33l1m.jpg);
+	background-size: 73%;
+	background-position: 23% 25%;
+}
+
+
+body[class="menu"] {
+	background: url(https://w.wallha.com/ws/7/jtZqVXeO.png);
+	background-size: 450%;
+	background-position: 100% 480%;
+}
+
+p[class="context"] {
+	color: snow;
+	position: relative;
+	top: 40vh;
+	left: 0;
+	transform: translate(0, -50%);
+}
+
+input[name="menubutton"] {
+	color: snow;
+	background: lightseagreen;
+	padding: 3px;
+	border-radius: 200px;
+	width: 180px;
+}
+
+input[name="menubutton"]:hover {
+	color: snow;
+	background: lightseagreen;
+	padding: 3px;
+	border-radius: 200px;
+	width: 200px;
+}

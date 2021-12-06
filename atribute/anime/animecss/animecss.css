@@ -1,0 +1,16 @@
+body {
+	background: url(https://images2.alphacoders.com/771/771486.jpg);
+}
+
+p {
+	color: black;
+	background: snow;
+	opacity: 0.8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	background: snow;
+	opacity: 0.8;
+	width: 15%;
+}
